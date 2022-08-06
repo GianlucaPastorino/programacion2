@@ -1,0 +1,11 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\bin\Debug\net5.0\C01_Biblioteca.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\bin\Debug\net5.0\C01_Biblioteca.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\bin\Debug\net5.0\ref\C01_Biblioteca.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\bin\Debug\net5.0\C01_Biblioteca.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\ref\C01_Biblioteca.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\C01_Biblioteca\obj\Debug\net5.0\C01_Biblioteca.pdb

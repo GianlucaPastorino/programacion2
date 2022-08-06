@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I07_Pitagoras/1.0.0": {
+        "runtime": {
+          "I07_Pitagoras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I07_Pitagoras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

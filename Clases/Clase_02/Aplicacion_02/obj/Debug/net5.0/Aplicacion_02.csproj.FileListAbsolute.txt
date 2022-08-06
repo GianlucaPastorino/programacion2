@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\ref\Aplicacion_02.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\bin\Debug\net5.0\Aplicacion_02.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\ref\Aplicacion_02.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_02\Aplicacion_02\obj\Debug\net5.0\Aplicacion_02.genruntimeconfig.cache

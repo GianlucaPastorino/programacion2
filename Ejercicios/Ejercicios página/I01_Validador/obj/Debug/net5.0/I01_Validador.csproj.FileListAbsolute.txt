@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\ref\I01_Validador.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\bin\Debug\net5.0\I01_Validador.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\ref\I01_Validador.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I01_Validador\obj\Debug\net5.0\I01_Validador.genruntimeconfig.cache

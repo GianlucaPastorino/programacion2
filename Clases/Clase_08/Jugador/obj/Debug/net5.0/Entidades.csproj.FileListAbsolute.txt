@@ -1,0 +1,24 @@
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.dll
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.dll
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Gianluca\source\repos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\bin\Debug\net5.0\ref\Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\bin\Debug\net5.0\Entidades.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\ref\Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\Jugador\obj\Debug\net5.0\Entidades.pdb

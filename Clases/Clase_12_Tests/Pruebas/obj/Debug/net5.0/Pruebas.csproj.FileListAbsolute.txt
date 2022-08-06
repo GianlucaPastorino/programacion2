@@ -1,0 +1,204 @@
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\testhost.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\testhost.exe
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.deps.json
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.json
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.dev.json
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ref\Pruebas.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.pdb
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.AssemblyReference.cache
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfoInputs.cache
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfo.cs
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CopyComplete
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\ref\Pruebas.dll
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.pdb
+C:\Users\Gianluca\source\repos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.genruntimeconfig.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\testhost.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\testhost.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ref\Pruebas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Pruebas.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Biblioteca.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\bin\Debug\net5.0\Biblioteca.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CopyComplete
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\ref\Pruebas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_12_Tests\Pruebas\obj\Debug\net5.0\Pruebas.genruntimeconfig.cache

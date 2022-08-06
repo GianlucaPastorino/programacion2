@@ -1,0 +1,8 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.FormJugadores.resources
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.MenuPrincipal.resources
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.csproj.GenerateResource.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08\JugadoresUI\obj\Debug\net5.0-windows\UI.csproj.CoreCompileInputs.cache

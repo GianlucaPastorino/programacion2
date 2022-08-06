@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "JugadoresUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/JugadoresUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JugadoresUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Jugador/Entidades.csproj",
+      "msbuildProject": "../Jugador/Entidades.csproj"
+    },
+    "JugadoresUI/1.0.0": {
+      "type": "project",
+      "path": "../JugadoresUI/JugadoresUI.csproj",
+      "msbuildProject": "../JugadoresUI/JugadoresUI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Entidades >= 1.0.0",
+      "JugadoresUI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gianluca\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\UI\\UI.csproj",
+      "projectName": "UI",
+      "projectPath": "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\UI\\UI.csproj",
+      "packagesPath": "C:\\Users\\Gianluca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gianluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\JugadoresUI\\JugadoresUI.csproj": {
+              "projectPath": "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\JugadoresUI\\JugadoresUI.csproj"
+            },
+            "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\Jugador\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Gianluca\\source\\repos\\Clase_08\\Jugador\\Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

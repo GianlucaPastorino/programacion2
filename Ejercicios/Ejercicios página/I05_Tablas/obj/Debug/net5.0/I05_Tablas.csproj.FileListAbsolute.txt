@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\ref\I05_Tablas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\bin\Debug\net5.0\I05_Tablas.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\ref\I05_Tablas.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I05_Tablas\obj\Debug\net5.0\I05_Tablas.genruntimeconfig.cache

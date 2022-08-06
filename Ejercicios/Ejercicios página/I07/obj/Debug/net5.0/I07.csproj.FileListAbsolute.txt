@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\ref\I07.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\bin\Debug\net5.0\I07.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\ref\I07.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\I07\obj\Debug\net5.0\I07.genruntimeconfig.cache

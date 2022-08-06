@@ -1,0 +1,12 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\bin\Debug\net5.0\Centralita.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\bin\Debug\net5.0\Centralita.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\bin\Debug\net5.0\ref\Centralita.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\bin\Debug\net5.0\Centralita.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\ref\Centralita.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\Centralita\obj\Debug\net5.0\Centralita.pdb

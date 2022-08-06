@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\ref\Clase_18.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\bin\Debug\net5.0\Clase_18.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\ref\Clase_18.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_20_Delegados\Clase_18\obj\Debug\net5.0\Clase_18.genruntimeconfig.cache

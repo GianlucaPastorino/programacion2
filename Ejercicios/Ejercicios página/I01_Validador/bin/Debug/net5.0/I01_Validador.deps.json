@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I01_Validador/1.0.0": {
+        "runtime": {
+          "I01_Validador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01_Validador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

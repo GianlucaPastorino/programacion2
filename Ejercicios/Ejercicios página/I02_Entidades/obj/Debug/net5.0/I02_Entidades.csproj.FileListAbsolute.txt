@@ -1,0 +1,12 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\bin\Debug\net5.0\I02_Entidades.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\bin\Debug\net5.0\I02_Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\bin\Debug\net5.0\ref\I02_Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\bin\Debug\net5.0\I02_Entidades.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\ref\I02_Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Ejercicios\Ejercicios página\I02_Entidades\obj\Debug\net5.0\I02_Entidades.csproj.AssemblyReference.cache

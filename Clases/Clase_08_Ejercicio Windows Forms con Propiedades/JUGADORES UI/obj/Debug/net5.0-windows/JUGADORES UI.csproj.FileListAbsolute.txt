@@ -1,0 +1,22 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\ref\JUGADORES UI.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\JUGADORES UI.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\Entidades.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\bin\Debug\net5.0-windows\Entidades.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES_UI.Alta.resources
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES_UI.Principal.resources
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.GenerateResource.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.csproj.CopyComplete
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\ref\JUGADORES UI.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_08_Ejercicio Windows Forms con Propiedades\JUGADORES UI\obj\Debug\net5.0-windows\JUGADORES UI.genruntimeconfig.cache

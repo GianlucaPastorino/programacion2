@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\ref\Colecciones.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\bin\Debug\net5.0\Colecciones.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\ref\Colecciones.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_07\Colecciones\obj\Debug\net5.0\Colecciones.genruntimeconfig.cache

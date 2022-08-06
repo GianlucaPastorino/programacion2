@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "I01_CartucheraConsola/1.0.0": {
+        "dependencies": {
+          "I01_Cartuchera": "1.0.0"
+        },
+        "runtime": {
+          "I01_CartucheraConsola.dll": {}
+        }
+      },
+      "I01_Cartuchera/1.0.0": {
+        "runtime": {
+          "I01_Cartuchera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I01_CartucheraConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "I01_Cartuchera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

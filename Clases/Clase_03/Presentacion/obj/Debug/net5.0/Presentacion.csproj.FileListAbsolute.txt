@@ -1,0 +1,16 @@
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.exe
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.deps.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.runtimeconfig.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.runtimeconfig.dev.json
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\ref\Presentacion.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\bin\Debug\net5.0\Presentacion.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.csproj.AssemblyReference.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.AssemblyInfoInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.AssemblyInfo.cs
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.csproj.CoreCompileInputs.cache
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\ref\Presentacion.dll
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.pdb
+D:\Programación\.UTN\Tercer cuatrimestre\Prog y Labo II\Proyectos\Clase_03\Presentacion\obj\Debug\net5.0\Presentacion.genruntimeconfig.cache
